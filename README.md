@@ -1,2 +1,2 @@
-# App_Frases_do_dia
- Consiste em uma aplicação que gera frases aleatorias ao precionar um botão.
+# APP_Frases do dia
+ Consiste em uma simples aplicação que gera frases aleatórias ao pressionar um botão.
