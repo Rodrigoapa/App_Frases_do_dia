@@ -9,9 +9,9 @@
 ---
 
 ## Sobre o projeto
- A função da aplicação é de gerar frases motivacionais de forma aleatória.
+ Uma simples aplicação de estudo, que tem a função de gerar frases motivacionais de forma aleatória.
  
- Toda vez que o usúario clicar no botão de adicionar no canto inferior direito da tela, atualiza a frase no app.
+ Toda vez que o usúario clicar no botão "NOVA FRASE", é atualizado uma frase na tela.
  
  ### 🛠 Tecnologias
  
