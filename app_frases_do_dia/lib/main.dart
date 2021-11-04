@@ -1,8 +1,3 @@
-// Autor: Rodrigo Almeida.
-// Data: 01/11/2021.
-// Aplicativo: Frases do dia
-// Descrição: Um aplicativo desenvolvido para estudo, que gera frases motivacionais ao precionar um botão.
-
 import 'dart:math';
 import 'package:flutter/material.dart';
 
