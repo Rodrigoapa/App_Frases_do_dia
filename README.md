@@ -8,10 +8,10 @@
 
 ---
 
-## Sobre o projeto
- Uma simples aplicação de estudo, que tem a função de gerar frases motivacionais de forma aleatória.
- 
- Toda vez que o usúario clicar no botão "NOVA FRASE", é atualizado uma frase na tela.
+## 💻 Sobre o projeto
+ Este projeto foi desenvolvido com base no curso **_Desenvolvimento Android e IOS com Flutter 2022 -Crie 15 Apps_** da [Udemy](https://www.udemy.com/).
+ Uma simples aplicação de estudo, que consiste na função de gerar frases motivacionais de forma aleatória.
+ Toda vez que o usúario clicar no botão **NOVA FRASE**, é atualizado uma frase na tela.
  
  ### 🛠 Tecnologias
  
